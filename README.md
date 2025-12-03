@@ -25,7 +25,7 @@ All assignment requirements are fully met.
 root/
  ├── system1/
  ├── system2/
- ├── react-ui/
+ ├── Frontend/
  └── README.md
 ```
 
