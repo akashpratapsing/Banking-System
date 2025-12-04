@@ -80,7 +80,7 @@ Response:
 
 ## 🖥️ Frontend Setup
 ```
-cd react-ui
+cd Frontend
 npm install
 npm start
 ```
